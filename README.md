@@ -1,0 +1,2 @@
+# lnnavsegda
+Linenoise playground project
